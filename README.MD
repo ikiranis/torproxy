@@ -26,3 +26,5 @@ This is for Firefox. Maybe another browser have different options
 For more information go to:
 
 https://www.arulraj.net/2015/05/docker-container-for-tor-with-privoxy.html
+
+Edit tor/torrc file to change tor settings
