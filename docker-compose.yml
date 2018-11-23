@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+
+  tor:
+    container_name: tor
+    image: arulrajnet/torprivoxy:latest
+    restart: always
+    ports:
+      - 8118:8118
+      - 9050:9050
+      - 9051:9051
